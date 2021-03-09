@@ -1,0 +1,14 @@
+C:\Users\edson.prates\source\repos\API.Products\API\bin\Debug\netcoreapp2.2\API.deps.json
+C:\Users\edson.prates\source\repos\API.Products\API\bin\Debug\netcoreapp2.2\API.runtimeconfig.json
+C:\Users\edson.prates\source\repos\API.Products\API\bin\Debug\netcoreapp2.2\API.runtimeconfig.dev.json
+C:\Users\edson.prates\source\repos\API.Products\API\bin\Debug\netcoreapp2.2\API.dll
+C:\Users\edson.prates\source\repos\API.Products\API\bin\Debug\netcoreapp2.2\API.pdb
+C:\Users\edson.prates\source\repos\API.Products\API\obj\Debug\netcoreapp2.2\API.csproj.CoreCompileInputs.cache
+C:\Users\edson.prates\source\repos\API.Products\API\obj\Debug\netcoreapp2.2\API.RazorAssemblyInfo.cache
+C:\Users\edson.prates\source\repos\API.Products\API\obj\Debug\netcoreapp2.2\API.RazorAssemblyInfo.cs
+C:\Users\edson.prates\source\repos\API.Products\API\obj\Debug\netcoreapp2.2\API.AssemblyInfoInputs.cache
+C:\Users\edson.prates\source\repos\API.Products\API\obj\Debug\netcoreapp2.2\API.AssemblyInfo.cs
+C:\Users\edson.prates\source\repos\API.Products\API\obj\Debug\netcoreapp2.2\API.RazorTargetAssemblyInfo.cache
+C:\Users\edson.prates\source\repos\API.Products\API\obj\Debug\netcoreapp2.2\API.dll
+C:\Users\edson.prates\source\repos\API.Products\API\obj\Debug\netcoreapp2.2\API.pdb
+C:\Users\edson.prates\source\repos\API.Products\API\obj\Debug\netcoreapp2.2\API.csprojAssemblyReference.cache

@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.902
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "API", "API\API.csproj", "{0DCB9F3C-E699-4803-9747-0E1A8E437E3F}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "MessageQueue.WebJob", "MessageQueue.WebJob\MessageQueue.WebJob.csproj", "{5E7EE349-F7A5-4432-944A-24AC09146B2E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{0DCB9F3C-E699-4803-9747-0E1A8E437E3F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0DCB9F3C-E699-4803-9747-0E1A8E437E3F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0DCB9F3C-E699-4803-9747-0E1A8E437E3F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0DCB9F3C-E699-4803-9747-0E1A8E437E3F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5E7EE349-F7A5-4432-944A-24AC09146B2E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5E7EE349-F7A5-4432-944A-24AC09146B2E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5E7EE349-F7A5-4432-944A-24AC09146B2E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5E7EE349-F7A5-4432-944A-24AC09146B2E}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {A318FD35-47C7-4131-9257-94415861C0D9}
+	EndGlobalSection
+EndGlobal

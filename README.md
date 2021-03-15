@@ -8,7 +8,7 @@ entre todos os objetos e processos.
 <img src="https://user-images.githubusercontent.com/73493014/110170081-68d30580-7dd8-11eb-8620-c114d29658f2.png" width="700" align="center">
 
 ## Conceitos e patterns incluídos
-* Utilização de classes e mapeamentos genéricas;
+* Utilização de classes e mapeamentos genéricos;
 * Microserviços;
 * Mensageria;
 * Métodos comuns de interação de API;
@@ -23,7 +23,7 @@ entre todos os objetos e processos.
 * RabbitMQ
 * Azure Function - RabbitMQTrigger consumer
 * IoC Dependency Injection Microsoft
-* Mongo 
+* MongoDB
 * Postman
 
 ## Configurando os ambientes com docker compose

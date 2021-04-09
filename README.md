@@ -19,7 +19,7 @@ entre todos os objetos e processos.
 ## Ferramentas/Frameworks 
 
 * Docker Compose (gerenciador de containers)
-* MediaR
+* MediatR
 * RabbitMQ
 * Azure Function - RabbitMQTrigger consumer
 * IoC Dependency Injection Microsoft

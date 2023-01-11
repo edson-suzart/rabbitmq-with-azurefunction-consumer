@@ -1,5 +1,3 @@
-# Mensageria_com_RabbitMQ_e_AzureFunction_Consumer
-
 Projeto desenvolvido em .net core 2.2 com o intuito de demonstrar a utilização de 
 mensageria, micro serviços, arquitetura orientada a eventos e fluxos mediadores com total desacoplamento
 entre todos os objetos e processos.
